@@ -45,7 +45,7 @@ Additional material:
 - [Worked PartFoundry configuration](examples/foundry.md)
 - [Custom compiled CLI example](examples/custom-cli.md)
 - [Cross-language JSON plugin example](examples/cross-language-plugin.md)
-- [Combined design document](DESIGN.md)
+- [Combined design review index](DESIGN.md)
 
 ## Normative language
 
